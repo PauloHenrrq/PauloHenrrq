@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Paulo Henrique 
+## Bem-vindo(a) ao meu perfil
+
+Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visando me tornar Desenvolvedor Web Full Stack. 
 
  <div>
    <a href="https://github.com/Staneli">
