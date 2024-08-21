@@ -3,7 +3,7 @@
 Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visando me tornar Desenvolvedor Web Full Stack. 
 
  <div>
-   <a href="https://github.com/Staneli">
+   <a href="https://github.com/PauloHenrrq">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=dark"/>
 </div>
