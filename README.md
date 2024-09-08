@@ -17,6 +17,7 @@ Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visa
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
 </div>
  
 <br>
