@@ -3,7 +3,7 @@
 **My name is Paulo Henrique, and I am currently studying Computer Science, aiming to become a Full Stack Web Developer.**
 
  <div>
-   <a href="https://github.com/PauloHenrrq" style="text-decoration: none">
+   <a href="https://github.com/PauloHenrrq" style="text-decoration: none !important">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
