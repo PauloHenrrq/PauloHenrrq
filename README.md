@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao meu perfil
+## Welcome to my profile!
 
-Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visando me tornar Desenvolvedor Web Full Stack. 
+My name is Paulo Henrique, and I am currently studying Computer Science, aiming to become a Full Stack Web Developer.
 
  <div>
    <a href="https://github.com/PauloHenrrq">
@@ -22,7 +22,7 @@ Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visa
  
 <br>
  
-### Minhas redes sociais:
+### My Social Media:
  
 <div> 
   <a href="https://instagram.com/paulohenrqq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E605F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
