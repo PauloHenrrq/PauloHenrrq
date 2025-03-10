@@ -4,8 +4,8 @@
 
  <div>
    <a href="https://github.com/PauloHenrrq" style="text-decoration: none">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight"/>
    </a>
 </div>
     
