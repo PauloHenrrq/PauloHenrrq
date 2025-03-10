@@ -18,7 +18,7 @@
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
