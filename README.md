@@ -4,8 +4,8 @@ Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visa
 
  <div>
    <a href="https://github.com/PauloHenrrq">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/><br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/><br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -13,9 +13,9 @@ Me chamo Paulo Henrique, atualmente cursando em Ciências da Computação e visa
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
