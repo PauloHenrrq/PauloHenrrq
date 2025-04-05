@@ -34,5 +34,5 @@
 <div> 
   <a href="https://instagram.com/paulohenrqq_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%EA4459?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulofera159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-de-ara%C3%BAjo-rodrigues-b679b026a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-b679b026a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
