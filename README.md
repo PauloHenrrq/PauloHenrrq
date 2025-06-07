@@ -23,8 +23,7 @@
   <img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Sequelize" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 </div>
  
 <br>
