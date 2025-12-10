@@ -2,12 +2,20 @@
 
 **My name is Paulo Henrique, and I am currently studying Computer Science, aiming to become a Full Stack Web Developer.**
 
-<div>
-  <a href="https://github.com/PauloHenrrq" style="text-decoration:none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=7200"/>
-  </a>
+<div align="center">
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-git-master-paulo-henrrq.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-git-master-paulo-henrrq.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&langs_count=6&theme=tokyonight" 
+  />
+
 </div>
+
 
     
 <div><br>
