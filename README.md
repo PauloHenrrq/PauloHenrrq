@@ -11,7 +11,7 @@
 - Estudante de **Ciência da Computação**
 - Desenvolvedor Full Stack com experiência em **React, Node.js, PostgreSQL**
 - Base sólida em **estruturas de dados, algoritmos e arquitetura de software**
-- Busco desenvolver aplicações limpas, organizadas e fáceis de manter
+- Busco desenvolver aplicações **desafiadoras e organizadas**
 - Apaixonado por aprender novas tecnologias e otimizar processos de desenvolvimento
 
 ---
