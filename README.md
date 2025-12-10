@@ -39,11 +39,11 @@
 
 <div align="center">
 
-  <a href="mailto:paulohenrrq@gmail.com">
+  <a href="mailto:paulofera159@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/seuuser">
+  <a href="https://www.linkedin.com/in/paulo-henrique-araujo-rodrigues/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
