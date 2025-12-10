@@ -20,17 +20,17 @@
 
 ### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 </div>
 
 ### **Backend**
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </div>
 
 ### **Banco de Dados & Ferramentas**
 <div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
 </div>
 
 ---
