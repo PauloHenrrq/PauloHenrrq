@@ -20,7 +20,7 @@
 
 ### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind,bootstrap" />
 </div>
 
 ### **Backend**
