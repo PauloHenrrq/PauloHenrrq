@@ -22,6 +22,12 @@
 
 ## 👨‍💻 Sobre Mim
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+Automa%C3%A7%C3%A3o+e+IA;Freelancer+Aut%C3%B4nomo;Transformando+Ideias+em+Software" alt="Typing SVG" />
+  </a>
+</p>
+
 Sou desenvolvedor Full Stack e estudante de Ciência da Computação focado em construir aplicações rápidas, escaláveis e de alta qualidade. Atuo como **Freelancer Autônomo**, combinando o desenvolvimento de software robusto com soluções avançadas de **Automação e Agentes de IA** para otimizar processos e entregar valor real ao cliente final.
 
 ---
@@ -88,6 +94,9 @@ Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excel
   <tr>
     <td width="50%" valign="top">
       <h3>🧪 PHHub</h3>
+      <a href="https://ph-hub-six.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.png" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+      </a>
       <p><strong>Centralizador de Workflows, MCPs e Ferramentas Técnicas</strong></p>
       <p>Um hub técnico avançado desenvolvido para orquestrar e documentar o meu ecossistema de automação assistida por IA, organizando custom workflows e servidores MCP em uma interface limpa e reativa.</p>
       <p>
@@ -101,6 +110,9 @@ Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excel
     </td>
     <td width="50%" valign="top">
       <h3>🏥 OdontoSync</h3>
+      <a href="https://github.com/PauloHenrrq" target="_blank">
+        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+      </a>
       <p><strong>Gestão de Clínicas Odontológicas com Automação de WhatsApp</strong></p>
       <p>Sistema sob medida projetado para otimizar operações clínicas. Inclui um painel administrativo completo de agendamentos, portal do paciente com confirmações automáticas de consultas via integração WhatsApp.</p>
       <p>
@@ -118,31 +130,25 @@ Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excel
 
 ## 🛠️ Stack Tecnológica & Ecossistema
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,prisma,postgres,mysql,python,docker,git,linux,bash,tailwind,css,html,figma&perline=9&theme=dark" />
+  </a>
+</p>
+
 <table align="center" border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <strong>Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/React_Native-181717?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=007ACC" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+      <strong>🌐 Frontend Moderno</strong><br/>
+      <em>Next.js, React, React Native, TypeScript, TailwindCSS</em>
     </td>
     <td width="33%" align="center" valign="top">
-      <strong>Backend & Banco de Dados</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs&logoColor=339933" /><br/>
-      <img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Prisma-181717?style=for-the-badge&logo=prisma&logoColor=2D3748" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+      <strong>⚙️ Backend & Dados</strong><br/>
+      <em>Node.js, Express, Prisma, PostgreSQL, MySQL</em>
     </td>
     <td width="33%" align="center" valign="top">
-      <strong>IA & Automação</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
-      <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" /><br/>
-      <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" /><br/>
-      <img src="https://img.shields.io/badge/MCP-181717?style=for-the-badge&logo=model-context-protocol&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/IA_Agents-181717?style=for-the-badge&logo=openai&logoColor=412991" />
+      <strong>🤖 IA & Automação</strong><br/>
+      <em>Python, Docker, MCP, AI Agents, Bash</em>
     </td>
   </tr>
 </table>
