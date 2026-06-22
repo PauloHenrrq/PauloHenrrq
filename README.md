@@ -28,7 +28,7 @@
   </a>
 </p>
 
-Sou desenvolvedor Full Stack e estudante de Ciência da Computação focado em construir aplicações rápidas, escaláveis e de alta qualidade. Atuo como **Freelancer Autônomo**, combinando o desenvolvimento de software robusto com soluções avançadas de **Automação e Agentes de IA** para otimizar processos e entregar valor real ao cliente final.
+Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláveis e de alta qualidade. Atuo como **Freelancer Autônomo**, unindo arquitetura de software sólida com o poder da **Automação e Agentes de IA** para acelerar entregas e gerar valor real.
 
 ---
 
@@ -37,16 +37,16 @@ Sou desenvolvedor Full Stack e estudante de Ciência da Computação focado em c
 <table border="0" width="100%">
   <tr>
     <td width="33.3%" valign="top">
-      <h3>⚡ Performance como Base</h3>
-      <p>Velocidade e otimização são estruturadas desde o início do projeto, evitando gargalos de desempenho e garantindo eficiência real no uso diário do sistema.</p>
+      <h3>⚡ Performance</h3>
+      <p>Aplicações otimizadas desde o dia zero. Zero gargalos, foco em velocidade e alta eficiência.</p>
     </td>
     <td width="33.3%" valign="top">
-      <h3>🎨 UX/UI para Uso Real</h3>
-      <p>Interfaces limpas, rápidas, responsivas e intuitivas focadas em resolver problemas de negócios sem fricção e com foco na satisfação do usuário.</p>
+      <h3>🎨 UX/UI Intuitiva</h3>
+      <p>Interfaces limpas e responsivas. Design estratégico para resolver problemas sem atritos.</p>
     </td>
     <td width="33.3%" valign="top">
-      <h3>🏗️ Sistemas Duráveis</h3>
-      <p>Código limpo, desacoplado e arquitetura de software sólida (SOLID), projetada para crescer de forma sustentável e facilitar manutenções futuras.</p>
+      <h3>🏗️ Código Durável</h3>
+      <p>Arquitetura limpa (SOLID) desenhada para escalar com segurança e facilitar manutenções.</p>
     </td>
   </tr>
 </table>
@@ -55,33 +55,33 @@ Sou desenvolvedor Full Stack e estudante de Ciência da Computação focado em c
 
 ## 📐 Metodologia de Trabalho
 
-Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excelência técnica e alinhamento total com as necessidades do projeto:
+*Processo enxuto e estruturado para garantir máxima excelência técnica:*
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔍 01. Descoberta & Planejamento</h4>
-      <p>Entendimento aprofundado dos requisitos e objetivos do negócio antes de escrever qualquer código. Defino a estratégia técnica para evitar retrabalhos.</p>
+      <h4>🔍 01. Planejamento</h4>
+      <p>Alinhamento profundo de requisitos e estratégia técnica antes de codar.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ 02. Engenharia & Arquitetura</h4>
-      <p>Estruturação de bancos de dados eficientes e arquiteturas limpas com foco em escalabilidade, manutenibilidade e alta disponibilidade.</p>
+      <h4>⚙️ 02. Arquitetura</h4>
+      <p>Modelagem de dados otimizada e sistemas desenhados para alta disponibilidade.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 03. Desenvolvimento Potencializado</h4>
-      <p>Utilização avançada de inteligência artificial de forma assistida para acelerar a escrita e validação de código, mantendo o controle total da lógica e segurança.</p>
+      <h4>🤖 03. IA Assistida</h4>
+      <p>Desenvolvimento ágil potencializado por IA, sem abrir mão do controle lógico.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ 04. Qualidade & Auditoria</h4>
-      <p>Testes abrangentes, refatoração e auditoria contínua de performance e segurança para entregar softwares resilientes e de alta confiabilidade.</p>
+      <h4>🛡️ 04. Qualidade</h4>
+      <p>Testes rigorosos e refatoração constante para entregar código resiliente.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <h4>🚀 05. Lançamento & Evolução</h4>
-      <p>Suporte completo no deploy e acompanhamento contínuo da infraestrutura para garantir máxima estabilidade e performance contínua.</p>
+      <p>Suporte completo de infraestrutura e monitoramento pós-deploy.</p>
     </td>
   </tr>
 </table>
@@ -97,8 +97,8 @@ Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excel
       <a href="https://ph-hub-six.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.png" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
-      <p><strong>Centralizador de Workflows, MCPs e Ferramentas Técnicas</strong></p>
-      <p>Um hub técnico avançado desenvolvido para orquestrar e documentar o meu ecossistema de automação assistida por IA, organizando custom workflows e servidores MCP em uma interface limpa e reativa.</p>
+      <p><strong>Centralizador de Automações & MCPs</strong></p>
+      <p>Hub avançado desenvolvido para orquestrar fluxos de trabalho assistidos por IA e servidores MCP em uma interface reativa e moderna.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -113,8 +113,8 @@ Adoto um processo de desenvolvimento estruturado em 5 etapas para garantir excel
       <a href="https://github.com/PauloHenrrq" target="_blank">
         <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
-      <p><strong>Gestão de Clínicas Odontológicas com Automação de WhatsApp</strong></p>
-      <p>Sistema sob medida projetado para otimizar operações clínicas. Inclui um painel administrativo completo de agendamentos, portal do paciente com confirmações automáticas de consultas via integração WhatsApp.</p>
+      <p><strong>SaaS Clínico com Automação via WhatsApp</strong></p>
+      <p>Plataforma para clínicas com painel inteligente de agendamentos e portal do paciente com automação de ponta a ponta.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
