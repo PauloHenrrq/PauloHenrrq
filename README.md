@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="banner.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="banner_widescreen.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 <p align="center">
