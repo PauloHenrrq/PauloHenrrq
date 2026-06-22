@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="banner.svg" alt="Paulo Henrique - Desenvolvedor Full Stack" width="100%" />
-</p>
+<div align="center">
+  <video src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/banner_widescreen.mp4" autoplay loop muted playsinline style="width: 100%;"></video>
+</div>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack | Freelancer Autônomo | Especialista em Automação & Agentes de IA</strong>
