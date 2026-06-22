@@ -1,4 +1,6 @@
-# Paulo Henrique Araujo Rodrigues
+<p align="center">
+  <img src="banner.svg" alt="Paulo Henrique Araujo Rodrigues" width="100%" />
+</p>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack | Freelancer Autônomo | Estudante de Ciência da Computação</strong>

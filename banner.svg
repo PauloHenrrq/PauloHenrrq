@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <defs>
+    <!-- Import Google Font Outfit -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+    </style>
+    
+    <!-- Blur filter for premium background glows -->
+    <filter id="glowBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="40" />
+    </filter>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#BD00FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#05A093" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#BD00FF" stop-opacity="0.8"/>
+    </linearGradient>
+    
+    <!-- Separator Line Gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#BD00FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#05A093" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#BD00FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg {
+      fill: #050508;
+    }
+    
+    .border {
+      stroke: url(#borderGrad);
+      stroke-width: 1.5;
+      fill: none;
+    }
+
+    .grid-line {
+      stroke: #12121a;
+      stroke-width: 0.5;
+      opacity: 0.6;
+    }
+
+    /* Base Text Styling */
+    .text-name {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+
+    .text-tag {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      fill: #a0a0b0;
+      text-anchor: middle;
+    }
+
+    .tag-highlight {
+      fill: #BD00FF;
+      font-weight: 800;
+    }
+
+    /* Keyframe Animations */
+    @keyframes animateP {
+      0%, 25% {
+        transform: translate(360px, 145px);
+      }
+      50%, 100% {
+        transform: translate(190px, 145px);
+      }
+    }
+
+    @keyframes animateH {
+      0%, 25% {
+        transform: translate(405px, 145px);
+      }
+      50%, 100% {
+        transform: translate(415px, 145px);
+      }
+    }
+
+    @keyframes animateRestP {
+      0%, 30% {
+        opacity: 0;
+        transform: translate(230px, 145px) translateX(-15px);
+      }
+      60%, 100% {
+        opacity: 1;
+        transform: translate(230px, 145px) translateX(0);
+      }
+    }
+
+    @keyframes animateRestH {
+      0%, 30% {
+        opacity: 0;
+        transform: translate(465px, 145px) translateX(-15px);
+      }
+      60%, 100% {
+        opacity: 1;
+        transform: translate(465px, 145px) translateX(0);
+      }
+    }
+
+    @keyframes animateLine {
+      0%, 45% {
+        transform: scaleX(0);
+        opacity: 0;
+      }
+      70%, 100% {
+        transform: scaleX(1);
+        opacity: 0.4;
+      }
+    }
+
+    @keyframes animateSub {
+      0%, 55% {
+        opacity: 0;
+        transform: translate(400px, 245px) translateY(8px);
+      }
+      80%, 100% {
+        opacity: 1;
+        transform: translate(400px, 245px) translateY(0);
+      }
+    }
+
+    /* Animation Classes */
+    .brand-p {
+      animation: animateP 8s infinite alternate ease-in-out;
+      fill: #BD00FF;
+    }
+
+    .brand-h {
+      animation: animateH 8s infinite alternate ease-in-out;
+      fill: #05A093;
+    }
+
+    .rest-p {
+      animation: animateRestP 8s infinite alternate ease-in-out;
+      fill: #ffffff;
+    }
+
+    .rest-h {
+      animation: animateRestH 8s infinite alternate ease-in-out;
+      fill: #ffffff;
+    }
+
+    .separator-line {
+      stroke: url(#lineGrad);
+      stroke-width: 1.5;
+      transform-origin: 400px 205px;
+      animation: animateLine 8s infinite alternate ease-in-out;
+    }
+
+    .subtitle {
+      animation: animateSub 8s infinite alternate ease-in-out;
+      transform-origin: 400px 245px;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="800" height="300" rx="12" class="bg" />
+
+  <!-- Premium Neon Glow Spots -->
+  <circle cx="220" cy="150" r="100" fill="#BD00FF" opacity="0.12" filter="url(#glowBlur)" />
+  <circle cx="580" cy="150" r="100" fill="#05A093" opacity="0.1" filter="url(#glowBlur)" />
+
+  <!-- Tech Grid Background -->
+  <g class="grid">
+    <line x1="50" y1="0" x2="50" y2="300" class="grid-line" />
+    <line x1="100" y1="0" x2="100" y2="300" class="grid-line" />
+    <line x1="150" y1="0" x2="150" y2="300" class="grid-line" />
+    <line x1="200" y1="0" x2="200" y2="300" class="grid-line" />
+    <line x1="250" y1="0" x2="250" y2="300" class="grid-line" />
+    <line x1="300" y1="0" x2="300" y2="300" class="grid-line" />
+    <line x1="350" y1="0" x2="350" y2="300" class="grid-line" />
+    <line x1="400" y1="0" x2="400" y2="300" class="grid-line" />
+    <line x1="450" y1="0" x2="450" y2="300" class="grid-line" />
+    <line x1="500" y1="0" x2="500" y2="300" class="grid-line" />
+    <line x1="550" y1="0" x2="550" y2="300" class="grid-line" />
+    <line x1="600" y1="0" x2="600" y2="300" class="grid-line" />
+    <line x1="650" y1="0" x2="650" y2="300" class="grid-line" />
+    <line x1="700" y1="0" x2="700" y2="300" class="grid-line" />
+    <line x1="750" y1="0" x2="750" y2="300" class="grid-line" />
+    
+    <line x1="0" y1="50" x2="800" y2="50" class="grid-line" />
+    <line x1="0" y1="100" x2="800" y2="100" class="grid-line" />
+    <line x1="0" y1="150" x2="800" y2="150" class="grid-line" />
+    <line x1="0" y1="200" x2="800" y2="200" class="grid-line" />
+    <line x1="0" y1="250" x2="800" y2="250" class="grid-line" />
+  </g>
+
+  <!-- Glowing Border -->
+  <rect x="1" y="1" width="798" height="298" rx="12" class="border" />
+
+  <!-- ANIMATING TEXTS -->
+  <!-- "P" -->
+  <text class="text-name brand-p" font-size="56">P</text>
+  <!-- "aulo" -->
+  <text class="text-name rest-p" font-size="46">aulo</text>
+
+  <!-- "H" -->
+  <text class="text-name brand-h" font-size="56">H</text>
+  <!-- "enrique" -->
+  <text class="text-name rest-h" font-size="46">enrique</text>
+
+  <!-- Animated Separator Line -->
+  <line x1="150" y1="205" x2="650" y2="205" class="separator-line" />
+
+  <!-- Subtitle Tags -->
+  <text class="text-tag subtitle">
+    WEB DEVELOPER   |   UI/UX DESIGNER   |   <tspan class="tag-highlight">AI AUTOMATION &amp; AGENTS</tspan>
+  </text>
+</svg>
