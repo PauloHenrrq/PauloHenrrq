@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b5ae2e4c-0122-4c47-b512-0df4aaa252e3" alt="Paulo Henrique - Desenvolvedor Full Stack" width="100%" />
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b5ae2e4c-0122-4c47-b512-0df4aaa252e3" autoplay loop muted playsinline style="width: 100%;"></video>
+</div>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack | Freelancer Autônomo | Especialista em Automação & Agentes de IA</strong>
