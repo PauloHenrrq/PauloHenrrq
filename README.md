@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://github.com/PauloHenrrq/PauloHenrrq/raw/main/banner_widescreen.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="banner.svg" alt="Paulo Henrique - Desenvolvedor Full Stack" width="100%" />
 </p>
 
 <p align="center">
