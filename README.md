@@ -95,7 +95,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
     <td width="50%" valign="top">
       <h3>🧪 PHHub</h3>
       <a href="https://ph-hub-six.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.png" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="./preview_hero.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
       <p><strong>Centralizador de Automações & MCPs</strong></p>
       <p>Hub avançado desenvolvido para orquestrar fluxos de trabalho assistidos por IA e servidores MCP em uma interface reativa e moderna.</p>
@@ -111,7 +111,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
     <td width="50%" valign="top">
       <h3>🏥 OdontoSync</h3>
       <a href="https://github.com/PauloHenrrq" target="_blank">
-        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="./preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
       <p><strong>SaaS Clínico com Automação via WhatsApp</strong></p>
       <p>Plataforma para clínicas com painel inteligente de agendamentos e portal do paciente com automação de ponta a ponta.</p>
@@ -158,9 +158,9 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
 ## 📊 Atividade & Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=c9d1d9&icon_color=FF7A00&border_color=30363d&count_private=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PauloHenrrq&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=c9d1d9&icon_color=FF7A00&border_color=30363d&count_private=true" alt="Estatísticas do GitHub" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloHenrrq&theme=dark&background=0D1117&ring=FF2E2E&fire=FF7A00&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border=30363d" alt="Streak do GitHub" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=c9d1d9&icon_color=FF7A00&border_color=30363d" alt="Linguagens mais utilizadas" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PauloHenrrq&layout=compact&theme=dark&bg_color=0D1117&title_color=FF2E2E&text_color=c9d1d9&icon_color=FF7A00&border_color=30363d" alt="Linguagens mais utilizadas" width="60%" />
 </p>
