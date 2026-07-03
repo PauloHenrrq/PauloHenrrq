@@ -94,9 +94,11 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
   <tr>
     <td width="50%" valign="top">
       <h3>🧪 PHHub</h3>
-      <a href="https://ph-hub-six.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
-      </a>
+      <div align="center">
+        <a href="https://ph-hub-six.vercel.app/" target="_blank">
+          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.jpg" width="85%" style="border-radius: 8px; margin-bottom: 15px;" />
+        </a>
+      </div>
       <p><strong>Centralizador de Automações & MCPs</strong></p>
       <p>Hub avançado desenvolvido para orquestrar fluxos de trabalho assistidos por IA e servidores MCP em uma interface reativa e moderna.</p>
       <p>
@@ -112,8 +114,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
       <h3>🏥 OdontoSync</h3>
       <div align="center">
         <a href="https://github.com/PauloHenrrq" target="_blank">
-          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="35%" style="border-radius: 8px; margin-bottom: 15px; margin-right: 8px;" />
-          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_002.jpg" width="35%" style="border-radius: 8px; margin-bottom: 15px;" />
+          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="85%" style="border-radius: 8px; margin-bottom: 15px;" />
         </a>
       </div>
       <p><strong>SaaS Clínico com Automação via WhatsApp</strong></p>
