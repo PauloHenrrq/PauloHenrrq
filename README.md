@@ -95,7 +95,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
     <td width="50%" valign="top">
       <h3>🧪 PHHub</h3>
       <a href="https://ph-hub-six.vercel.app/" target="_blank">
-        <img src="./preview_hero.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_hero.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
       <p><strong>Centralizador de Automações & MCPs</strong></p>
       <p>Hub avançado desenvolvido para orquestrar fluxos de trabalho assistidos por IA e servidores MCP em uma interface reativa e moderna.</p>
@@ -111,7 +111,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
     <td width="50%" valign="top">
       <h3>🏥 OdontoSync</h3>
       <a href="https://github.com/PauloHenrrq" target="_blank">
-        <img src="./preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+        <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
       </a>
       <p><strong>SaaS Clínico com Automação via WhatsApp</strong></p>
       <p>Plataforma para clínicas com painel inteligente de agendamentos e portal do paciente com automação de ponta a ponta.</p>
