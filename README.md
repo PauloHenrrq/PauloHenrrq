@@ -112,7 +112,8 @@ Sou **Desenvolvedor Full Stack** focado na construção de aplicações escaláv
       <h3>🏥 OdontoSync</h3>
       <div align="center">
         <a href="https://github.com/PauloHenrrq" target="_blank">
-          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="50%" style="border-radius: 8px; margin-bottom: 15px;" />
+          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_001.jpg" width="35%" style="border-radius: 8px; margin-bottom: 15px; margin-right: 8px;" />
+          <img src="https://raw.githubusercontent.com/PauloHenrrq/PauloHenrrq/main/preview_all_002.jpg" width="35%" style="border-radius: 8px; margin-bottom: 15px;" />
         </a>
       </div>
       <p><strong>SaaS Clínico com Automação via WhatsApp</strong></p>
